@@ -1,0 +1,51 @@
+
+img{
+    height:250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+li{
+    font-size:small;
+}
+#tagline{
+    background-image: url(images/pic2.JPG);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+form{
+    background-color: rgb(250, 243, 243);
+    border:  solid rgb(203, 198, 198);
+    width: 650px;
+    
+}
+#inputEmail{
+    width: 315px;
+}
+#btn{
+    margin-right: 140px;
+
+}
+button{
+    width: 70px;
+    height: 30px;
+    
+    
+}
+.copyright{
+    font-size: xx-small;
+}
+#onePage{
+    font-size: 75px;
+}
+#knock{
+    font-size: 45px;
+}
+::placeholder{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    padding: 5px;
+}
